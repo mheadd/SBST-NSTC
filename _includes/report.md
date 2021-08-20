@@ -1,4 +1,4 @@
-Building on SBST’s first year of results, on September 15th, 2015, President Obama issued an executive order directing Federal Government agencies to apply behavioral science insights to their programs to better serve the American people. 
+Building on SBST’s first year of results, on September 15th, 2015, President Obama issued an executive order directing Federal Government agencies to apply behavioral science insights to their programs to better serve the American people.  
 
 ## Annual Reports
 {: .grid-list}
